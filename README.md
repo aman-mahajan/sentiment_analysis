@@ -1,5 +1,5 @@
 # sentiment_analysis
-A beginner's approach for [this] (https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data) Kaggle problem.
+A beginner's approach for [this](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data) Kaggle problem.
 
 ## File Structure
 processKaggleDataset.py: Reads and cleans the data. Also provides the word2vec matrix for the dataset.
